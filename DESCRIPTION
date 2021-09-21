@@ -1,0 +1,19 @@
+Package: ohwhaley
+Title: Talk to a whale.
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Erik",
+           family = "Viljamaa",
+           role = c("aut", "cre"),
+           email = "erik.viljamaa@students.mq.edu.au")
+Description: Want a pet? Have a pet whale.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports: 
+    magrittr
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
